@@ -75,7 +75,7 @@
     background-color: #1949b3;
     max-height: 700px;
     position: relative;
-    background-image: url('../images/showcase-bg-xs.jpg');
+    background-image: url('../Images/showcase-bg-xs.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -671,7 +671,7 @@
     min-height: 500px;
     position: relative;
     z-index: 1;
-    background-image: url(../images/about-picture.jpg);
+    background-image: url(../Images/about-Picture.jpg);
     background-size: cover;
     box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
     -webkit-box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
