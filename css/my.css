@@ -671,7 +671,7 @@
     min-height: 500px;
     position: relative;
     z-index: 1;
-    background-image: url(../Images/about-Picture.jpg);
+    background-image: url(../Images/about-picture.jpg);
     background-size: cover;
     box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
     -webkit-box-shadow: 0 10px 20px rgba(0,0,0,.19), 0 6px 6px rgba(0,0,0,.23);
